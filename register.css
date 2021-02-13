@@ -1,0 +1,45 @@
+body{
+    background-color: #fdf8f5;
+    text-align: center;
+    padding: 2%;
+
+}
+
+.main_div{
+    background-color: #4f4846;
+    padding: 20px;
+    border-radius: 20px;
+    color: #ddaf94;
+}
+
+.main_div:hover{
+    transform: scale(-9px);
+    box-shadow: 1px 1px 18px #4f4846;
+}
+.main_div h2{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px #ddaf94 solid;
+    border-radius: 20px;
+    width: fit-content; 
+}
+
+.main_div button{
+    font-size: 25px;
+    border: 3px #266150 solid;
+    border-radius: 5px;
+    width: 140px;
+    background-color: #266150;
+    color : #ffffff !important;
+}
+
+.navigate{
+    font-size: 25px;
+    border: 3px #266150 solid;
+    border-radius: 5px;
+    background-color: #266150;
+    color : #ffffff !important;
+    width: fit-content;
+}

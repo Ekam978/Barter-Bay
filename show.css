@@ -1,0 +1,54 @@
+body{
+    background-color: #fdf8f5;
+}
+.add_thing_div{
+    background-color: #4f4846;
+	width: fit-content;
+    border-radius: 5px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 80%;
+    float: none;
+    position: fixed;
+    text-align: center;
+}
+
+.add_thing{
+    width: 55px;
+    height: 55px;
+    border-radius: 32px;
+    background-image: url("plus\ \(1\).png");
+    background-size: contain;
+    margin-bottom: 0;
+    border: #4f4846 solid 2px;
+    background-color: #4f4846;
+    padding: 6px;
+}
+
+#about_object{
+    font-size: 20px;
+}
+
+#output
+{
+	padding: 10px; 
+	width:80%;
+	background: #4f4846;
+    border-radius: 15px;
+    color: white;
+}
+
+#logout
+{
+    font-size: 20px; 
+    float: right;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #4f4846;
+    text-align: center;
+    padding: 10px;
+}

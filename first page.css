@@ -1,0 +1,64 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background: white;
+}
+
+.signin_div{
+    background-color: #fdf8f5;
+    height: 100%;
+}
+
+.signup_div{
+    background-image: url("Untitled design (12).png");
+    background-size: cover;
+    height: 100%;
+}
+
+.signin_div:hover{
+    box-shadow: 1px 1px 18px #fdf8f5;
+}
+.signin_div h2{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px #ddaf94 solid;
+    border-radius: 20px;
+    width: fit-content;
+    color: #ddaf94;
+}
+
+.signup_div:hover{
+    box-shadow: 1px 1px 18px #e8cebf;
+}
+
+.sign_Up , .sign_in{
+    font-size: 25px;
+    border: 3px #266150 solid;
+    border-radius: 5px;
+    width: 140px;
+    background-color: #266150;
+    color : #ffffff !important;
+}
+
+
+#sign_up_p{
+    font-family: 'Neuton', serif;
+    color: #000000;
+    padding: 20px;
+}
+
+.heading{
+    padding: 10px;
+    font-size: 30px;
+    background-color: #4f4846;
+    color: #ddaf94;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
